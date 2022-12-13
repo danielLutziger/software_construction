@@ -1,4 +1,14 @@
 package lecture12;
+/**
+ *
+ *
+ *  only surface level information and knowledge is required for the exam
+ *
+ *
+ */
+
+
+
 
 /**
  * interface can only have one function for functional methods to work
